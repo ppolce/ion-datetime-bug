@@ -1,0 +1,7 @@
+{
+  "name": "ion-datetime-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
